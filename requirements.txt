@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pupil-apriltags
+svgwrite
+reportlab
+moms-apriltag
+pillow
